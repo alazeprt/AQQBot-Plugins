@@ -1,0 +1,10 @@
+{
+  "name": "AQQBot 官方插件库",
+  "author": "alazeprt",
+  "description": "AQQBot 官方插件库, 收录了 AQQBot 社区开发者的一些优秀插件",
+  "website": "https://github.com/alazeprt/AQQBot-Plugins",
+  "schema_version": 1,
+  "plugins": [
+
+  ]
+}
