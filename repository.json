@@ -5,6 +5,14 @@
   "website": "https://github.com/alazeprt/AQQBot-Plugins",
   "schema_version": 1,
   "plugins": [
-
+      {
+      "schema_version": 1,
+      "name": "HTML Renderer",
+      "description": "HTML Renderer for AQQBot",
+      "entrypoint": "HTML-Renderer.js",
+      "author": "Navi",
+      "version": "1.0.0",
+      "download": "https://gh-proxy.com/https://github.com/7ooki/HTML-Renderer-For-AQQBot/releases/download/master/HTML-Renderer.zip"
+    }
   ]
 }
