@@ -7,7 +7,7 @@
   "plugins": [
       {
       "schema_version": 1,
-      "name": "HTML Renderer",
+      "name": "HTML-Renderer",
       "description": "HTML Renderer for AQQBot",
       "entrypoint": "HTML-Renderer.js",
       "author": "Navi",
